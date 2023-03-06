@@ -1,0 +1,65 @@
+.ic-app-header__menu-list-item .ic-app-header__menu-list-link {
+    border-radius: 5px;
+    margin: 5px;
+    width: calc(100% - 10px);
+}
+
+.ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .ic-app-header__menu-list-link {
+    background: #3d3d3d;
+}
+
+.menu-item-icon-container {
+    width: 38px;
+}
+
+.ic-app-nav-toggle-and-crumbs {
+    min-height: 3rem;
+}
+
+.ic-app-course-nav-toggle i[class*=icon-]:before, .ic-app-course-nav-toggle i[class^=icon-]:before {
+    font-size: 1rem;
+}
+
+#assignment_show .student-assignment-overview {
+    margin: 0;
+    border-top: none;
+}
+
+#assignment_show .assignment-title {
+    margin-bottom: 0;
+}
+
+#quiz_show ul#quiz_student_details {
+    border-top: none;
+}
+
+:root {
+    --yyQPt-focusBorderColor: #333;
+    --cCGLM-iconColor: #333;
+    --bDBte-groupColor: #f00;
+}
+
+ul#section-tabs > li > a {
+    padding-left: 12px;
+}
+
+#sticky-container {
+    padding: 5px;
+}
+
+.ic-app-header {
+    background: #1d1d1d;
+}
+
+.ic-app-header__logomark {
+    display: none;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+:root {
+    --dark-reader--feqxT-background: #3d3d3d;
+    --dark-reader--feqxT-backgroundHover: #3d3d3d;
+}

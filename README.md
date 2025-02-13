@@ -3,7 +3,7 @@ A minimal stylesheet for [Canvas](https://www.instructure.com/) which takes them
 
 <details><summary><h2>Screenshots</h2></summary>
   
-![Preview](instructure-styling-preview.png)
+  ![Preview](instructure-styling-preview.png)
 
 </details>
 

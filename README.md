@@ -1,4 +1,7 @@
 # Canvas Styling
+>[!NOTE]
+>This stylesheet was ported over from Arc, there are still many issues with the dark mode.
+
 A minimal stylesheet for [Canvas](https://www.instructure.com/) which takes theming into account while providing a modern and distraction-free interface so school doesn't have to feel so overwhelming.
 
 <details><summary><h2>Screenshots</h2></summary>
